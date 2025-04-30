@@ -1,5 +1,27 @@
 # 🖼️ Image processing project with VGG19 for time i was working in university
-# 📓you need
+
+# 🖼️ Image Classification with VGG19
+
+This project demonstrates how to perform image classification using the pre-trained **VGG19** model from Keras. It's a simple, clean example of transfer learning for identifying image content with high accuracy.
+
+---
+
+## 🚀 Features
+
+- ✅ Uses VGG19 pretrained on ImageNet
+- ✅ Loads and preprocesses custom images
+- ✅ Outputs top predictions with class names and confidence scores
+- ✅ Easy to customize for other datasets or models
+
+---
+
+## 🧰 Requirements
+
+Install the required libraries:
+
+```bash
+pip install tensorflow numpy pillow
+```
 
 !download this:
 ```
