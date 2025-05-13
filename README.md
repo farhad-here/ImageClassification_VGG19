@@ -23,6 +23,10 @@ Install the required libraries:
 pip install tensorflow numpy pillow
 ```
 
+```bash
+pip install -r requirements.txt
+```
+
 !download this:
 ```
 vgg19_weights_tf_dim_ordering_tf_kernels_notop.h5
